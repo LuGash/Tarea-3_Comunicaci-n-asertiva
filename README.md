@@ -24,13 +24,13 @@
 
 ### Reflexión Final
 
-##Andrés Hernández
+Andrés Hernández
 
-3. **¿Qué errores de comunicación provocaron el conflicto?**
+1. **¿Qué errores de comunicación provocaron el conflicto?**
 El principal fallo fue que nos enfocamos más en defender nuestras posturas individuales que en escucharnos. Al acumularse la presión del tiempo, permitimos que el cansancio dominara la conversación; responder con un tono impulsivo y usar gestos de molestia hizo que las sugerencias de mejora se percibieran como críticas personales o ganas de complicar las cosas, generando tensión innecesaria.
 
-4. **¿Cómo ayudó la comunicación asertiva a mejorar la situación?**
+2. **¿Cómo ayudó la comunicación asertiva a mejorar la situación?**
 Nos permitió pausar la discusión y cambiar la manera de interactuar. Hablar en primera persona para expresar inquietudes sin culpar al otro, mantener un tono calmado y detenernos a entender el punto de vista del compañero hizo posible dejar los egos de lado. Esto nos ayudó a enfocar el debate en lo verdaderamente importante: llegar a un punto medio donde la presentación quedara bien hecha sin sobrecargar a nadie.
 
-5. **¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?**
+3. **¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?**
 Porque el respeto es la base para que un equipo funcione bien bajo presión. Cuando hay confianza y respeto, la gente se siente libre de proponer ideas o señalar fallas sin miedo a ser atacada o ignorada. Mantener un trato maduro no solo evita que un proyecto se estanque por discusiones absurdas, sino que también asegura que el resultado final sea de calidad y que el ambiente de trabajo siga siendo sano.
